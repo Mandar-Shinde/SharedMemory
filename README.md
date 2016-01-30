@@ -1,3 +1,5 @@
 
-# QtSharedMemory
+### QtSharedMemory
+* sharedMemoryServer
+* sharedMemoryClient
 
